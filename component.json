@@ -5,5 +5,7 @@
   "keywords": ["demo", "intro"],
   "homepage": "http://usablica.github.com/intro.js/",
   "author": "Afshin Mehrabani",
-  "main": ["intro.js","introjs.css", "introjs-ie.css"]
+  "styles": ["introjs.css"],
+  "main": "intro.js"
+  
 }
