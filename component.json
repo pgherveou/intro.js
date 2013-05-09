@@ -6,6 +6,7 @@
   "homepage": "http://usablica.github.com/intro.js/",
   "author": "Afshin Mehrabani",
   "styles": ["introjs.css"],
+  "scripts": ["intro.js"],
   "main": "intro.js"
   
 }
